@@ -1,0 +1,10 @@
+{
+  "name": "budoux-with-figma",
+  "id": "1044903712476177532",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}

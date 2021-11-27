@@ -4,10 +4,10 @@
   "description": "Your Figma plugin",
   "main": "code.js",
   "scripts": {
-    "build": "tsc -p tsconfig.json"
+    "build": "webpack"
   },
-  "author": "",
-  "license": "",
+  "author": "Yoshihiro Tanaka",
+  "license": "Apache-2.0",
   "devDependencies": {
     "@figma/plugin-typings": "^1.39.1",
     "ts-loader": "^9.2.6",

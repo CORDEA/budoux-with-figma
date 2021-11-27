@@ -5,6 +5,9 @@
     "typeRoots": [
       "./node_modules/@types",
       "./node_modules/@figma"
-    ]
+    ],
+    "paths": {
+      "budoux": ["./node_modules/budoux/dist/index"]
+    }
   }
 }
